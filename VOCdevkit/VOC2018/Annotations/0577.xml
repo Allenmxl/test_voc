@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>VOC2018</folder>
+	<filename>0577.jpg</filename>
+	<path>C:\Users\q5980\Videos\±¨¾¯\sing03\Adult&amp;Child103.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>269</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adult</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>23</ymin>
+			<xmax>190</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>
